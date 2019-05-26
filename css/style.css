@@ -738,6 +738,73 @@ h1, h2, h3, h4, h5, h6, figure {
   background-image: url('../images/misa.png');
 }
 
+.rw_mock1 {
+  background-image: url('../images/mockup_rw_t.png');
+}
+.rw_mock2 {
+  background-image: url('../images/mockup_rw_b.png');
+}
+.rw_mock3 {
+  background-image: url('../images/mockup_rw_m.png');
+}
+.rw_mock4 {
+  background-image: url('../images/mockup_rw_mb.png');
+}
+
+.nh_mock1 {
+  background-image: url('../images/mockup_nh_a.png');
+}
+.nh_mock2 {
+  background-image: url('../images/mockup_nh_id.png');
+}
+.nh_mock3 {
+  background-image: url('../images/mockup_nh_id2.png');
+}
+.nh_mock4 {
+  background-image: url('../images/mockup_nh_am.png');
+}
+.nh_mock5 {
+  background-image: url('../images/mockup_nh_pm.png');
+}
+.nh_mock6 {
+  background-image: url('../images/mockup_nh_pm2.png');
+}
+
+.rw_screen1 {
+  background-image: url('../images/rw_screen_a.jpg');
+}
+.rw_screen2 {
+  background-image: url('../images/rw_screen_b.png');
+}
+.rw_screen3 {
+  background-image: url('../images/rw_screen_c.png');
+}
+.rw_screen4 {
+  background-image: url('../images/rw_screen_d.png');
+}
+
+.nh_screen1 {
+  background-image: url('../images/nh_screen_a.png');
+}
+.nh_screen1b {
+  background-image: url('../images/nh_screen_id.png');
+}
+.nh_screen2 {
+  background-image: url('../images/nh_screen_p1.png');
+}
+.nh_screen3 {
+  background-image: url('../images/nh_screen_p.png');
+}
+.nh_screen4 {
+  background-image: url('../images/nh_screen_am.png');
+}
+.nh_screen5 {
+  background-image: url('../images/nh_screen_i1.png');
+}
+.nh_screen6 {
+  background-image: url('../images/nh_screen_i.png');
+}
+
 .projects {
   background-size: cover;
   background-repeat: no-repeat;
@@ -746,6 +813,24 @@ h1, h2, h3, h4, h5, h6, figure {
   height: 300px;
   margin: 5px;
   border: 8px solid #FF9000;
+}
+
+.projects-nh {
+  height: 275px;
+}
+
+.mock {
+  height: 620px;
+}
+.mock-nh {
+  height: 590px;
+}
+
+.screens {
+  height: 615px;
+}
+.screen-nh {
+  height: 825px;
 }
 
 #fh5co-started {
@@ -1155,4 +1240,27 @@ input[type="text"] {
   transform: scale(1.2);
   -webkit-transition-timing-function: cubic-bezier(0.47, 2.02, 0.31, -0.36);
   transition-timing-function: cubic-bezier(0.47, 2.02, 0.31, -0.36);
+}
+
+/* CSS RULES PROJECTS */
+#fh5co-header-project {
+  height: 300px;
+}
+
+p.baseline {
+  font-size: 2rem;
+  color: #333;
+}
+
+.row-projects .fh5co-heading {
+  margin-bottom: -20px !important;
+}
+
+.logo {
+  height: 60px;
+  margin-bottom: 20px;
+}
+
+.row-link {
+  margin-top: 50px;
 }
