@@ -804,7 +804,24 @@ h1, h2, h3, h4, h5, h6, figure {
 .nh_screen6 {
   background-image: url('../images/nh_screen_i.png');
 }
-
+.dd_visu1 {
+  background-image: url('../images/dd_visu.png');
+}
+.dd_visu2 {
+  background-image: url('../images/dd_visu2.png');
+}
+.dd_visu3 {
+  background-image: url('../images/dd_visu3.png');
+}
+.screens_ddd {
+  background-image: url('../images/dd_mockk.png');
+}
+.screens_dd {
+  background-image: url('../images/dd_mock.png');
+}
+.screens_dd2 {
+  background-image: url('../images/dd_mock2.png');
+}
 .projects {
   background-size: cover;
   background-repeat: no-repeat;
@@ -825,12 +842,20 @@ h1, h2, h3, h4, h5, h6, figure {
 .mock-nh {
   height: 590px;
 }
-
+.visubp {
+  height: 820px;
+}
+.visubm {
+  height: 790px;
+}
 .screens {
   height: 615px;
 }
 .screen-nh {
   height: 825px;
+}
+.project_dd {
+  height: 620px;
 }
 
 #fh5co-started {
@@ -1264,3 +1289,10 @@ p.baseline {
 .row-link {
   margin-top: 50px;
 }
+
+.bm-title {
+  margin-top: 6rem;
+}
+ .text-white {
+   color: white;
+ }
