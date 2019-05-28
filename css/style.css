@@ -826,7 +826,6 @@ h1, h2, h3, h4, h5, h6, figure {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-attachment: fixed;
   height: 300px;
   margin: 5px;
   border: 8px solid #FF9000;
