@@ -822,6 +822,15 @@ h1, h2, h3, h4, h5, h6, figure {
 .screens_dd2 {
   background-image: url('../images/dd_mock2.png');
 }
+.sr_mock1 {
+  background-image: url('../images/sr_mock.png');
+}
+.sr_mock2 {
+  background-image: url('../images/sr_mock2.png');
+}
+.sr_mock3 {
+  background-image: url('../images/sr_mock3.png');
+}
 .projects {
   background-size: cover;
   background-repeat: no-repeat;
